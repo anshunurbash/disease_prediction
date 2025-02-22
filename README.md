@@ -1,6 +1,6 @@
 # disease_prediction
 
-
+This is an open source project
 # 🏥 Disease Prediction System using Machine Learning
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-ML%20Web%20App-red)
